@@ -1,4 +1,4 @@
-Here are instructions to view and check your website.
+# Here are instructions to view and check your website.
 
 1. Extract the zip folder to any place you like.
 2. Open the extracted folder
